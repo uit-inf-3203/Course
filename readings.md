@@ -1,4 +1,6 @@
 # Literature list (part of "pensum") for INF3203-Advanced Distributed Systems, 2015
+*version 1.0* 
+
 Otto J. Anshus
 
 *This list is not final and can be modified.*
