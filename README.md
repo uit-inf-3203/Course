@@ -9,10 +9,12 @@
 **Lectures**: Mondays 14:15 - 16:00 and Tuesdays 12:15 - 13:00 at Lille Aud.
 (B203). 
 
-**Litterature list**: You can find a complete list [here](/readings.md)
+**Slides and handouts**: Available to students [here](http://github.com/uit-inf-3203/Lectures). 
+
+**Litterature list**: You can find a complete list [here](/readings.md).
 
 **Notice**: We will not all meet for all assigned times. Check the schedule for
-details.
+details. 
 
 ## Schedule
 **This schedule can be updated at any time. Please check for updates frequently.**
