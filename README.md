@@ -1,5 +1,7 @@
 # INF-3203 Advanced Distributed Systems 
 
+*version: 1.0*
+
 **Lecturer**: Prof. Otto Anshus
 
 **Teaching assistant (TA)**: Ph.D student Bjørn Fjukstad
