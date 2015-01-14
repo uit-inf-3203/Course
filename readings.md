@@ -6,8 +6,8 @@ Otto J. Anshus
 *This list is not final and can be modified.*
 
 ## Papers
-Paper | Presenter | Date 
-------- | ------- | ------
+Paper | Presenter 
+------- | ------- 
 Kay Ousterhout, Patrick Wendell, Matei Zaharia, and Ion Stoica. 2013. **Sparrow: distributed, low latency scheduling.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 69-84. DOI=10.1145/2517349.2522716 http://doi.acm.org/10.1145/2517349.2522716 | Peter Haro | 
 Qi Huang, Ken Birman, Robbert van Renesse, Wyatt Lloyd, Sanjeev Kumar, and Harry C. Li. 2013. **An analysis of Facebook photo caching.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 167-181. DOI=10.1145/2517349.2522722 http://doi.acm.org/10.1145/2517349.2522722 | Christian Vik | 
 Lenin Ravindranath, Jitendra Padhye, Ratul Mahajan, and Hari Balakrishnan. 2013. **Timecard: controlling user-perceived delays in server-based mobile applications.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 85-100. DOI=10.1145/2517349.2522717 http://doi.acm.org/10.1145/2517349.2522717 | Richard Karlsen | 
