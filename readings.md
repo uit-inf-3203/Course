@@ -1,5 +1,5 @@
 # Literature list (part of "pensum") for INF3203-Advanced Distributed Systems, 2015
-*version 2.0* 
+*version 2.1* 
 
 Otto J. Anshus
 
@@ -14,7 +14,7 @@ Lenin Ravindranath, Jitendra Padhye, Ratul Mahajan, and Hari Balakrishnan. 2013.
 Ramesh Chandra, Taesoo Kim, and Nickolai Zeldovich. 2013. **Asynchronous intrusion recovery for interconnected web services.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 213-227. DOI=10.1145/2517349.2522725 http://doi.acm.org/10.1145/2517349.2522725 | Eirik Mortensen | 
 Zhe Wu, Michael Butkiewicz, Dorian Perkins, Ethan Katz-Bassett, and Harsha V. Madhyastha. 2013. **SPANStore: cost-effective geo-replicated storage spanning multiple cloud services.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 292-308. DOI=10.1145/2517349.2522730 http://doi.acm.org/10.1145/2517349.2522730 | | 
 Mahesh Balakrishnan, Dahlia Malkhi, Ted Wobber, Ming Wu, Vijayan Prabhakaran, Michael Wei, John D. Davis, Sriram Rao, Tao Zou, and Aviad Zuck. 2013. **Tango: distributed data structures over a shared log.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 325-340. DOI=10.1145/2517349.2522732 http://doi.acm.org/10.1145/2517349.2522732 | Vi Tran | 
-Iulian Moraru, David G. Andersen, and Michael Kaminsky. 2013. **There is more consensus in Egalitarian parliaments.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 358-372. DOI=10.1145/2517349.2517350 http://doi.acm.org/10.1145/2517349.2517350 | | 
+Iulian Moraru, David G. Andersen, and Michael Kaminsky. 2013. **There is more consensus in Egalitarian parliaments.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 358-372. DOI=10.1145/2517349.2517350 http://doi.acm.org/10.1145/2517349.2517350 | Andreas Kittilsland | 
 Douglas B. Terry, Vijayan Prabhakaran, Ramakrishna Kotla, Mahesh Balakrishnan, Marcos K. Aguilera, and Hussam Abu-Libdeh. 2013. **Consistency-based service level agreements for cloud storage.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 309-324. DOI=10.1145/2517349.2522731 http://doi.acm.org/10.1145/2517349.2522731 | | 
 Lisa Glendenning, Ivan Beschastnikh, Arvind Krishnamurthy, and Thomas Anderson. 2011. **Scalable consistency in Scatter.** In Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles (SOSP '11). ACM, New York, NY, USA, 15-28. DOI=10.1145/2043556.2043559 http://doi.acm.org/10.1145/2043556.2043559 | | 
 Vanpei Chen, Kiran Srinivasan, Garth Goodson, and Randy Katz. 2011. **Design implications for enterprise storage systems via multi-dimensional trace analysis.** In Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles (SOSP '11). ACM, New York, NY, USA, 43-56. DOI=10.1145/2043556.2043562 http://doi.acm.org/10.1145/2043556.2043562 | | 
