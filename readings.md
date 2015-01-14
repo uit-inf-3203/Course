@@ -1,5 +1,5 @@
 # Literature list (part of "pensum") for INF3203-Advanced Distributed Systems, 2015
-*version 2.2* 
+*version 2.3* 
 
 Otto J. Anshus
 
@@ -10,7 +10,7 @@ Paper | Presenter | Date
 ------- | ------- | ------
 Kay Ousterhout, Patrick Wendell, Matei Zaharia, and Ion Stoica. 2013. **Sparrow: distributed, low latency scheduling.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 69-84. DOI=10.1145/2517349.2522716 http://doi.acm.org/10.1145/2517349.2522716 | Peter Haro | 
 Qi Huang, Ken Birman, Robbert van Renesse, Wyatt Lloyd, Sanjeev Kumar, and Harry C. Li. 2013. **An analysis of Facebook photo caching.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 167-181. DOI=10.1145/2517349.2522722 http://doi.acm.org/10.1145/2517349.2522722 | Christian Vik | 
-Lenin Ravindranath, Jitendra Padhye, Ratul Mahajan, and Hari Balakrishnan. 2013. **Timecard: controlling user-perceived delays in server-based mobile applications.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 85-100. DOI=10.1145/2517349.2522717 http://doi.acm.org/10.1145/2517349.2522717 | Richard | 
+Lenin Ravindranath, Jitendra Padhye, Ratul Mahajan, and Hari Balakrishnan. 2013. **Timecard: controlling user-perceived delays in server-based mobile applications.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 85-100. DOI=10.1145/2517349.2522717 http://doi.acm.org/10.1145/2517349.2522717 | Richard Karlsen | 
 Ramesh Chandra, Taesoo Kim, and Nickolai Zeldovich. 2013. **Asynchronous intrusion recovery for interconnected web services.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 213-227. DOI=10.1145/2517349.2522725 http://doi.acm.org/10.1145/2517349.2522725 | Eirik Mortensen | 
 Zhe Wu, Michael Butkiewicz, Dorian Perkins, Ethan Katz-Bassett, and Harsha V. Madhyastha. 2013. **SPANStore: cost-effective geo-replicated storage spanning multiple cloud services.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 292-308. DOI=10.1145/2517349.2522730 http://doi.acm.org/10.1145/2517349.2522730 | | 
 Mahesh Balakrishnan, Dahlia Malkhi, Ted Wobber, Ming Wu, Vijayan Prabhakaran, Michael Wei, John D. Davis, Sriram Rao, Tao Zou, and Aviad Zuck. 2013. **Tango: distributed data structures over a shared log.** In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles (SOSP '13). ACM, New York, NY, USA, 325-340. DOI=10.1145/2517349.2522732 http://doi.acm.org/10.1145/2517349.2522732 | Vi Tran | 
