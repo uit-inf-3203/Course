@@ -1,6 +1,6 @@
 # INF-3203 Advanced Distributed Systems 
 
-*version: 2.0*
+*version: 3.0*
 
 **Lecturer**: Prof. Otto Anshus
 
