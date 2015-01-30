@@ -48,7 +48,7 @@ Date & Time | Topic
 ### Week 6
 Date & Time | Topic 
 ------------|---------- 
-02/02 Mon 14:15-16:00 | "Consistency-based service level agreements for cloud storage." (Ida Charlotte Grønningen)
+02/02 Mon 14:15-16:00 | "Consistency-based service level agreements for cloud storage." (Ida Charlotte Rønningen)
 03/02 Tue 12:15-13:00 | 
 05/02 Thu 10:15-12:00 | "Scalable consistency in Scatter" (Johannes Larsen)
 
