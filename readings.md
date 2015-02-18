@@ -36,3 +36,9 @@ Javier Diaz, Camelia Munoz-Caro, and Alfonso Nino. **A survey of parallel progra
 
 * David Oppenheimer, Archana Ganapathi, and David A. Patterson. 2003. **Why do Internet services fail, and what can be done about it?** 4th Usenix Symposium on Internet Technologies and Systems (USITS ‘03).
 * Jeffrey Dean and Sanjay Ghemawat. 2008. **MapReduce: simplified data processing on large clusters.** Commun. ACM 51, 1 (January 2008), 107-113. DOI=10.1145/1327452.1327492 http://doi.acm.org/10.1145/1327452.1327492
+* Li, Mu, et al. "Scaling distributed machine learning with the parameter server."Operating Systems Design and Implementation (OSDI). 2014. https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf
+* Diao, Yanlei, Abhishek Roy, and Toby Bloom. "Building Highly-Optimized, Low-Latency Pipelines for Genomic Data Analysis." Conference on Innovative Data Systems Research (CIDR). http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper14u.pdf
+* Heer, Jeffrey, Joseph M. Hellerstein, and Sean Kandel. "Predictive Interaction for Data Transformation." https://idl.cs.washington.edu/files/2015-PredictiveInteraction-CIDR.pdf
+* Hey, Tony, Stewart Tansley, and Kristin M. Tolle. "Jim Gray on eScience: a transformed scientific method." (2009). http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_jim_gray_transcript.pdf
+
+
