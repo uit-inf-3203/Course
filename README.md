@@ -78,7 +78,7 @@ Date & Time | Topic
 ### Week 10
 Date & Time | Topic 
 ------------|---------- 
-02/03 Mon 14:15-16:00 |  Guest lecture(s) (Lars A. Bongo et al.)
+02/03 Mon 14:15-16:00 |  "Jim Gray on eScience: a transformed scientific method", "Predictive Interaction for Data Transformation.", "Scaling distributed machine learning with the parameter server." and "Building Highly-Optimized, Low-Latency Pipelines for Genomic Data Analysis."  (Lars A. Bongo, Edvard Pedersen, Einar Holsbø)
 03/03 Tue 12:15-13:00 | 
 05/03 Thu 10:15-12:00 | 
 
