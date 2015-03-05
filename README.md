@@ -148,14 +148,14 @@ Date & Time | Topic
 ### Week 20
 Date & Time | Topic 
 ------------|---------- 
-11/05 Mon 14:15-16:00 | Guest lecture or Alternative EXAM week
-12/05 Tue 12:15-13:00 | Guest lecture or Alternative EXAM week
+11/05 Mon 14:15-16:00 | Guest lecture 
+12/05 Tue 12:15-13:00 | Guest lecture
 14/05 Thu 10:15-12:00 | XXXXXXXXXXXXXXX
 
 ### Week 21
 Date & Time | Topic 
 ------------|---------- 
-18/05 Mon 14:15-16:00 | Alternative EXAM week
+18/05 Mon 14:15-16:00 | 
 19/05 Tue 12:15-13:00 | 
 21/05 Thu 10:15-12:00 | 
 
@@ -163,13 +163,13 @@ Date & Time | Topic
 Date & Time | Topic 
 ------------|---------- 
 25/05 Mon 14:15-16:00 | XXXXXXXXXXXXXXX
-26/05 Tue 12:15-13:00 | Alternative EXAM week
+26/05 Tue 12:15-13:00 | 
 28/05 Thu 10:15-12:00 | 
 
 ### Week 23
 Date & Time | Topic 
 ------------|---------- 
-01/06 Mon 14:15-16:00 |  
-02/06 Tue 12:15-13:00 | 
-04/06 Thu 10:15-12:00 | 
+03/06 Mon  | Exams
+04/06 Tue  | Exams 
+05/06 Thu  | Exams
 
