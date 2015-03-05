@@ -169,7 +169,7 @@ Date & Time | Topic
 ### Week 23
 Date & Time | Topic 
 ------------|---------- 
-03/06 Mon  | Exams
-04/06 Tue  | Exams 
-05/06 Thu  | Exams
+03/06 Wed  | Exams
+04/06 Thu  | Exams 
+05/06 Fri  | Exams
 
