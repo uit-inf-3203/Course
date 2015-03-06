@@ -99,7 +99,7 @@ Date & Time | Topic
 ### Week 13
 Date & Time | Topic 
 ------------|---------- 
-23/03 Mon 14:15-16:00 | "A survey on techniques for improving the energy efficiency of large-scale distributed systems." (Ibrahim Umar)
+23/03 Mon 14:15-16:00 | 
 24/03 Tue 12:15-13:00 | 
 26/03 Thu 10:15-12:00 | 
 
@@ -134,7 +134,7 @@ Date & Time | Topic
 ### Week 18
 Date & Time | Topic 
 ------------|---------- 
-27/04 Mon 14:15-16:00 | Paper (Student)
+27/04 Mon 14:15-16:00 | "A survey on techniques for improving the energy efficiency of large-scale distributed systems." (Ibrahim Umar)
 28/04 Tue 12:15-13:00 |
 30/04 Thu 10:15-12:00 |
 
