@@ -87,14 +87,14 @@ Date & Time | Topic
 ------------|---------- 
 09/03 Mon 14:15-16:00 | "Windows Azure Storage: a highly available cloud storage service with strong consistency" (Ruben Mæland)
 10/03 Tue 12:15-13:00 | 
-12/03 Thu 10:15-12:00 | "SPANStore: cost-effective geo-replicated storage spanning multiple cloud services" (Mats Sørensen)
+12/03 Thu 10:15-12:00 | XXXXXXXXXXXXXXXXX
 
 ### Week 12
 Date & Time | Topic 
 ------------|---------- 
 16/03 Mon 14:15-16:00 | "Tango: distributed data structures over a shared log" (Vi Tran Ngoc Nha)
 17/03 Tue 12:15-13:00 | 
-19/03 Thu 10:15-12:00 | 
+19/03 Thu 10:15-12:00 | "SPANStore: cost-effective geo-replicated storage spanning multiple cloud services" (Mats Sørensen)
 
 ### Week 13
 Date & Time | Topic 
