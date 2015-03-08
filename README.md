@@ -116,6 +116,7 @@ Date & Time | Topic
 06/04 Mon 14:15-16:00 | XXXXXXXXXXXXXXX
 07/04 Tue 12:15-13:00 | XXXXXXXXXXXXXXX
 09/04 Thu 10:15-12:00 | 
+10/4 Fri  12:15-13:00 | [Guest lecture by Haakon Ringberg](https://github.com/uit-inf-3203/Course/issues/15)
 
 ### Week 16
 Date & Time | Topic 
