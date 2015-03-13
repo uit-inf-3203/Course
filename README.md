@@ -92,16 +92,16 @@ Date & Time | Topic
 ### Week 12
 Date & Time | Topic 
 ------------|---------- 
-16/03 Mon 14:15-16:00 | "Tango: distributed data structures over a shared log" (Vi Tran Ngoc Nha)
+16/03 Mon 14:15-16:00 |  
 17/03 Tue 12:15-13:00 | 
 19/03 Thu 10:15-12:00 | "SPANStore: cost-effective geo-replicated storage spanning multiple cloud services" (Mats Sørensen)
 
 ### Week 13
 Date & Time | Topic 
 ------------|---------- 
-23/03 Mon 14:15-16:00 | 
+23/03 Mon 14:15-16:00 | "Spanner: Google’s Globally Distributed Database." (Jonas Christoffer Lintvedt and Stian Sjøli)
 24/03 Tue 12:15-13:00 | 
-26/03 Thu 10:15-12:00 | 
+26/03 Thu 10:15-12:00 | "Timecard: controlling user-perceived delays in server-based mobile applications." (Richard Karlsen and Kenneth Knudsen)
 
 ### Week 14
 Date & Time | Topic 
@@ -123,28 +123,28 @@ Date & Time | Topic
 ------------|---------- 
 13/04 Mon 14:15-16:00 | "Large Scale Distributed Deep Networks" (Morten Grønnesby)
 14/04 Tue 12:15-13:00 | 
-16/04 Thu 10:15-12:00 | 
+16/04 Thu 10:15-12:00 | Andreas Kittilsland and Håvard Emanuel Hamre Mathisen
 
 ### Week 17
 Date & Time | Topic 
 ------------|---------- 
 20/04 Mon 14:15-16:00 | Mandatory assignment presentations
 21/04 Tue 12:15-13:00 | 
-23/04 Thu 10:15-12:00 | 
+23/04 Thu 10:15-12:00 | "Debugging in the (very) large: ten years of implementation and experience." (Håvard Hemmingsen Johansen)
 
 ### Week 18
 Date & Time | Topic 
 ------------|---------- 
 27/04 Mon 14:15-16:00 | "A survey on techniques for improving the energy efficiency of large-scale distributed systems." (Ibrahim Umar)
 28/04 Tue 12:15-13:00 |
-30/04 Thu 10:15-12:00 |
+30/04 Thu 10:15-12:00 | "Tango: distributed data structures over a shared log" (Saeed Shariati & Vi Tran)
 
 ### Week 19
 Date & Time | Topic 
 ------------|---------- 
-04/05 Mon 14:15-16:00 | Paper (Student)
+04/05 Mon 14:15-16:00 | Tommy Skaue Øines: "Dynamo: amazon's highly available key-value store."
 05/05 Tue 12:15:13:0 | 
-07/05 Thu 10:15-12:00 | 
+07/05 Thu 10:15-12:00 | Kassaye Yigsaw: "Ricardo: Integrating R and Hadoop"
 
 ### Week 20
 Date & Time | Topic 
