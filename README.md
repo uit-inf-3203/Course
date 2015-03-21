@@ -99,7 +99,7 @@ Date & Time | Topic
 ### Week 13
 Date & Time | Topic 
 ------------|---------- 
-23/03 Mon 14:15-16:00 | "Spanner: Google’s Globally Distributed Database." (Jonas Christoffer Lintvedt and Stian Sjøli)
+23/03 Mon 14:15-16:00 | 
 24/03 Tue 12:15-13:00 | 
 26/03 Thu 10:15-12:00 | "Timecard: controlling user-perceived delays in server-based mobile applications." (Richard Karlsen and Kenneth Knudsen)
 
@@ -115,7 +115,7 @@ Date & Time | Topic
 ------------|---------- 
 06/04 Mon 14:15-16:00 | XXXXXXXXXXXXXXX
 07/04 Tue 12:15-13:00 | XXXXXXXXXXXXXXX
-09/04 Thu 10:15-12:00 | 
+09/04 Thu 10:15-12:00 | "Spanner: Google’s Globally Distributed Database." (Jonas Christoffer Lintvedt and Stian Sjøli)
 10/4 Fri  12:15-13:00 | [Guest lecture by Haakon Ringberg](https://github.com/uit-inf-3203/Course/issues/15)
 
 ### Week 16
