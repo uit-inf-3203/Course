@@ -123,7 +123,7 @@ Date & Time | Topic
 ------------|---------- 
 13/04 Mon 14:15-16:00 | "Large Scale Distributed Deep Networks" (Morten Grønnesby)
 14/04 Tue 12:15-13:00 | 
-16/04 Thu 10:15-12:00 | Andreas Kittilsland and Håvard Emanuel Hamre Mathisen
+16/04 Thu 10:15-12:00 | "Eyo: Device-Transparent Personal Storage" (Andreas Kittilsland and Håvard Emanuel Hamre Mathisen)
 
 ### Week 17
 Date & Time | Topic 
