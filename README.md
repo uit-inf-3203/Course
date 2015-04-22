@@ -135,9 +135,9 @@ Date & Time | Topic
 ### Week 18
 Date & Time | Topic 
 ------------|---------- 
-27/04 Mon 14:15-16:00 | "A survey on techniques for improving the energy efficiency of large-scale distributed systems." (Ibrahim Umar)
+27/04 Mon 14:15-16:00 | "Tango: distributed data structures over a shared log" (Saeed Shariati & Vi Tran)
 28/04 Tue 12:15-13:00 |
-30/04 Thu 10:15-12:00 | "Tango: distributed data structures over a shared log" (Saeed Shariati & Vi Tran)
+30/04 Thu 10:15-12:00 | "A survey on techniques for improving the energy efficiency of large-scale distributed systems." (Ibrahim Umar)
 
 ### Week 19
 Date & Time | Topic 
