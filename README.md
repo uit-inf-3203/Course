@@ -151,7 +151,7 @@ Date & Time | Topic
 ------------|---------- 
 11/05 Mon 14:15-16:00 | Lille Aud: Lorenzo Alvisi: SALT
 12/05 Tue 12:15-13:00 | Store Aud, Lorenzo Alvisi: Consistency vs. Performance in Databases
-14/05 Thu 10:15-12:00 | Store Aud: Lorenzo Alvisi: Game Theory and Fault Tolerance in Distributed Systems
+13/05 Wed 10:15-12:00 | Store Aud: Lorenzo Alvisi: Game Theory and Fault Tolerance in Distributed Systems
 
 ### Week 21
 Date & Time | Topic 
