@@ -156,7 +156,7 @@ Date & Time | Topic
 ### Week 21
 Date & Time | Topic 
 ------------|---------- 
-18/05 Mon 14:15-16:00 | 
+18/05 Mon 14:15-16:00 | Course recap & exam information
 19/05 Tue 12:15-13:00 | 
 21/05 Thu 10:15-12:00 | 
 
