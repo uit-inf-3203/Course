@@ -149,9 +149,9 @@ Date & Time | Topic
 ### Week 20
 Date & Time | Topic 
 ------------|---------- 
-11/05 Mon 14:15-16:00 | Lille Aud: Lorenzo Alvisi: SALT
-12/05 Tue 10:15-12:00 | Store Aud, Lorenzo Alvisi: Consistency vs. Performance in Databases
-13/05 Wed 10:15-12:00 | Store Aud: Lorenzo Alvisi: Game Theory and Fault Tolerance in Distributed Systems
+11/05 Mon 14:15-16:00 | Lille Aud: Lorenzo Alvisi: ["Salt: Combining ACID and BASE in a Distributed Database".](https://github.com/uit-inf-3203/Course/issues/27#issuecomment-98603470)
+12/05 Tue 10:15-12:00 | Store Aud, Lorenzo Alvisi: ["High performance ACID distributed databases via Modular Concurrency Control"](https://github.com/uit-inf-3203/Course/issues/27#issuecomment-98603470)
+13/05 Wed 10:15-12:00 | Store Aud: Lorenzo Alvisi: ["Reasoning with MAD distributed systems"](https://github.com/uit-inf-3203/Course/issues/27#issuecomment-98603470)
 
 ### Week 21
 Date & Time | Topic 
